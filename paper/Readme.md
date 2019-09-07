@@ -24,7 +24,7 @@
 
 **C1.** Computation of Pell Number of the Form px^2. Third International Conference, CAI 2009, Thessaloniki, Greece, May 19-22, 2009, Proceedings. LNCS 5725 , Springer (2009).
 
-**C2.** Lattice Attacks on DSA schemes based on Lagrange's Algorithm, CAI 2013 (France), LNCS 8080, Pages 119-13, Springer (2011) - Joint work with D. Poulakis
+**C2.** Lattice Attacks on DSA schemes based on Lagrange's Algorithm, CAI 2013 (France), LNCS 8080, Pages 173-188, Springer (2011) - Joint work with D. Poulakis
 
 **C3.** Balanced Integer solutions of linear equations, AMIMS 2013(Greece), Optimization and its Applications (SOIA), vol.91, Pages 173-188, Springer (2014). 
 
