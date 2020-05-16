@@ -22,6 +22,8 @@
 
 **J12.** Birthday type attacks to the Naccache-Stern Knapsack cryptosystem. Information Processing Letters, Vol. 138, October 2018, Pages 39 - 43, Elsevier  - Joint work with N. Chatzis and M. Anastasiadis.
 
+**J13.** Asymptotic formulas for Vasyunin cotangent sums. Accepted in AMC (Elsevier) - Joint work with G. Fikioris.
+
 **C1.** Computation of Pell Number of the Form px^2. Third International Conference, CAI 2009, Thessaloniki, Greece, May 19-22, 2009, Proceedings. LNCS 5725 , Springer (2009).
 
 **C2.** Lattice Attacks on DSA schemes based on Lagrange's Algorithm, CAI 2013 (France), LNCS 8080, Pages 119-131, Springer (2011) - Joint work with D. Poulakis
